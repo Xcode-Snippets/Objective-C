@@ -1,8 +1,8 @@
 // UITableViewDataSource
 // Placeholders for the core table view data source methods
 // 
-// Platform: All
-// Language: iOS
+// Platform: iOS
+// Language: Objective-C
 // Completion Scope: Class Implementation
 
 #pragma mark - UITableViewDataSource
