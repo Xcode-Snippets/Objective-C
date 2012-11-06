@@ -5,12 +5,12 @@
 // Language: Objective-C
 // Completion Scope: Class Implementation
 
-+ (<# class #> *)shared<# name #> {
-    static <# class #> *_shared<# name #> = nil;
++ (<#class#> *)shared<#name#> {
+    static <#class#> *_shared<#name#> = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        _shared<# name #> = <# initializer #>;
+        _shared<#name#> = <#initializer#>;
     });
     
-    return _shared<# name #>;
+    return _shared<#name#>;
 }
