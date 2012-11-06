@@ -12,13 +12,7 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    switch (section) {
-        case <#constant#>:
-            <#statements#>
-            break;
-        default:
-            return 0;
-    }
+    return <# number #>
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -30,4 +24,8 @@
     }
         
     return cell;
+}
+
+- (void)configureCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
+    <# statements #>
 }
