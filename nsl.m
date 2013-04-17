@@ -4,4 +4,4 @@
 // Language: Objective-C
 // Completion Scope: Code Expression
 
-NSLocalizedString(@"<#Message#>", <#@"Comment" or nil#>)
+NSLocalizedString(@"<#Message#>", <#Comment#>)
