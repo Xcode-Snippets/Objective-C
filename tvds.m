@@ -1,5 +1,5 @@
 // UITableViewDataSource
-// Placeholders for essential UITableViewDataSource delegate methods
+// Placeholders for required UITableViewDataSource delegate methods
 // 
 // Platform: iOS
 // Language: Objective-C
