@@ -1,5 +1,5 @@
 // UITableViewDelegate
-// Placeholders for the core table view delegate methods
+// Placeholders for required UITableViewDelegate protocol methods
 // 
 // Platform: iOS
 // Language: Objective-C
