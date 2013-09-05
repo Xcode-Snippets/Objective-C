@@ -4,7 +4,7 @@
 //
 // Platform: All
 // Language: C
-// Completion Scope: Class Implementation
+// Completion Scope: Code Expression, Function or Method
 
 static void CheckError(OSStatus error, const char *operation) {
     if (error == noErr) {
