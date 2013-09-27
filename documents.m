@@ -4,6 +4,4 @@
 // Language: Objective-C
 // Completion Scope: Function or Method
 
-NSArray *documentsSearchPaths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
-NSString *documentsDirectoryString = [documentsSearchPaths firstObject];
-NSURL *documentsDirectoryURL = [NSURL URLWithString:documentsDirectoryString];
+NSURL *documentsDirectoryURL = [NSURL URLWithString:[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) firstObject]];
