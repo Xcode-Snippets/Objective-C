@@ -3,7 +3,7 @@
 //
 // Platform: iOS
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Completion Scope: Function or Method
 
 NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] initWithEntityName:<#entityName#>];
 fetchRequest.predicate = [NSPredicate predicateWithFormat:<#predicateFormat#>];
