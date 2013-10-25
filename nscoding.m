@@ -1,4 +1,4 @@
-// NSCoding protocol methods
+// NSCoding Protocol Methods
 // Placeholders for NSCoding protocol methods
 // 
 // Platform: All
@@ -7,16 +7,17 @@
 
 #pragma mark - NSCoding
 
-- (instancetype)initWithCoder:(NSCoder *)aDecoder
-{
+- (instancetype)initWithCoder:(NSCoder *)decoder {
     self = [super init];
-    if (self) {
-        <#var#> = [aDecoder decodeObjectForKey:<#(NSString *)#>];
+    if (!self) {
+      return nil;
     }
+
+    <# implementation #>
+
     return self;
 }
 
-- (void)encodeWithCoder:(NSCoder *)aCoder
-{
-    [aCoder encodeObject:<#var#> forKey:<#(NSString *)#>]
+- (void)encodeWithCoder:(NSCoder *)coder {
+  <# implementation #>
 }
