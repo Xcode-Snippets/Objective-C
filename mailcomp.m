@@ -16,7 +16,7 @@
         [composeViewController setMessageBody:<#Body#> isHTML:YES];
         [composeViewController setToRecipients:@[<#Recipients#>]];
 
-		[self presentViewController:composeViewController animated:animated completion:nil];
+        [self presentViewController:composeViewController animated:animated completion:nil];
     } else {
         [[[UIAlertView alloc] initWithTitle:NSLocalizedString(@"Error", nil) message:NSLocalizedString(@"<#Cannot Send Mail Message#>", nil) delegate:nil cancelButtonTitle:NSLocalizedString(@"OK", nil) otherButtonTitles:nil] show];
     }
@@ -30,7 +30,6 @@
 {
     if (error) {
         NSLog(@"%@", error);
-
     }
 
     [self dismissViewControllerAnimated:YES completion:nil];
