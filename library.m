@@ -4,5 +4,4 @@
 // Language: Objective-C
 // Completion Scope: Function or Method
 
-NSArray *librarySearchPaths = NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES);
-NSString *libraryDirectory = [librarySearchPaths firstObject];
+[NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES) firstObject];
