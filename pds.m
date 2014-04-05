@@ -1,5 +1,5 @@
 // UIPickerViewDataSource
-// Placeholders for required UiPIckerView datasource methods
+// Placeholders for required UIPickerView datasource methods
 //
 // Platform: iOS
 // Language: Objective-C
@@ -7,10 +7,12 @@
 
 #pragma mark - UIPickerDataSource
 
--(NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView{
-  return <#num components#>
+- (NSInteger)pickerView:(UIPickerView *)pickerView
+numberOfRowsInComponent:(NSInteger)component
+{
+  return <#number#>
 }
 
--(NSInteger)pickerView:(UIPickerView *)pickerView numberOfRowsInComponent:(NSInteger)component{
-  return <#num rows#>
+- (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView {
+  return <#number#>
 }
