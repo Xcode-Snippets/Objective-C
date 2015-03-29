@@ -1,7 +1,6 @@
-// NSLocalizedString
-// 
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Code Expression
+---
+title: "NSLocalizedString"
+completion-scope: Code Expression
+---
 
 NSLocalizedString(@"<#Message#>", <#Comment#>)

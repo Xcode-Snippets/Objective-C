@@ -1,9 +1,9 @@
-// NSFetchedResultsController
-// Boilerplate for creating an NSFetchedResultsController
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "NSFetchedResultsController"
+summary: "Boilerplate for creating an NSFetchedResultsController"
+platform: iOS
+completion-scope: Function or Method
+---
 
 NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] initWithEntityName:<#(NSString *)#>];
 fetchRequest.predicate = [NSPredicate predicateWithFormat:<#(NSString *), ...#>];

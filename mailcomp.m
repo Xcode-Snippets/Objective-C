@@ -1,9 +1,9 @@
-// MFMailComposeViewController Initialization & Delegate
-// Methods required to use the iOS Mail Composer
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "MFMailComposeViewController Initialization & Delegate"
+summary: "Methods required to use the iOS Mail Composer"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #import <MessageUI/MessageUI.h>
 

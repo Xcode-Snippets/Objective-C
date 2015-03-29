@@ -1,9 +1,9 @@
-// UIViewController Lifecycle
-// Placeholders for all of the view controller lifecycle methods
-// 
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "UIViewController Lifecycle"
+summary: "Placeholders for all of the view controller lifecycle methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UIViewController
 

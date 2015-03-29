@@ -1,14 +1,14 @@
-// UITableViewDelegate
-// Placeholders for required UITableViewDelegate protocol methods
-// 
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "UITableViewDelegate"
+summary: "Placeholders for required UITableViewDelegate protocol methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UITableViewDelegate
 
-- (void)tableView:(UITableView *)tableView 
-didSelectRowAtIndexPath:(NSIndexPath *)indexPath 
+- (void)tableView:(UITableView *)tableView
+didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     <#statements#>
 }

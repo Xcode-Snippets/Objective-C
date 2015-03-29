@@ -1,9 +1,9 @@
-// NSFetchedResultsControllerDelegate
-// Placeholders for the fetched results controller delegate methods
-// 
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "NSFetchedResultsControllerDelegate"
+summary: "Placeholders for the fetched results controller delegate methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - NSFetchedResultsControllerDelegate
 

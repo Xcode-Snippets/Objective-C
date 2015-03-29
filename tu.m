@@ -1,7 +1,7 @@
-// UIControlEventTouchUpInside
-// 
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Code Expression
+---
+title: "UIControlEventTouchUpInside"
+platform: iOS
+completion-scope: Code Expression
+---
 
 UIControlEventTouchUpInside

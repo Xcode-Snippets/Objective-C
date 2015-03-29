@@ -1,8 +1,7 @@
-// __weak self
-// Declare weak reference to self
-//
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "__weak self"
+summary: "Declare weak reference to self"
+completion-scope: Function or Method
+---
 
 __weak typeof(self)weakSelf = self;

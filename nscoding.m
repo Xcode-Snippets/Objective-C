@@ -1,9 +1,8 @@
-// NSCoding Protocol Methods
-// Placeholders for NSCoding protocol methods
-// 
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "NSCoding Protocol Methods"
+summary: "Placeholders for NSCoding protocol methods"
+completion-scope: Class Implementation
+---
 
 #pragma mark - NSCoding
 

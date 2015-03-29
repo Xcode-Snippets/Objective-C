@@ -1,8 +1,7 @@
-// XCT Assert Nil
-// Assert for XCTest
-//
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "XCT Assert Nil"
+summary: "Assert for XCTest"
+completion-scope: Function or Method
+---
 
 XCTAssertNil(<#expression#>, <#message#>);

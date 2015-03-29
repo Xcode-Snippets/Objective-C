@@ -1,8 +1,7 @@
-// XCT Assert True
-// Assert true for XCTest
-//
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "XCT Assert True"
+summary: "Assert true for XCTest"
+completion-scope: Function or Method
+---
 
 XCTAssertTrue(<#expression#>, <#message#>);

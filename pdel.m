@@ -1,9 +1,8 @@
-// UIPickerViewDelegate
-// Placeholders for required UIPickerView Delegate methods
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+title: "UIPickerViewDelegate"
+summary: "Placeholders for required UIPickerView Delegate methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UIPickerViewDelegate
 

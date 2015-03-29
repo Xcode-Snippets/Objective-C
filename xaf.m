@@ -1,8 +1,7 @@
-// XCT Assert False
-// Assert false for XCTest
-//
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "XCT Assert False"
+summary: "Assert false for XCTest"
+completion-scope: Function or Method
+---
 
 XCTAssertFalse(<#expression#>, <#message#>);

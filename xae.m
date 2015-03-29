@@ -1,8 +1,7 @@
-// XCT Assert Equals
-// Assert equals for XCTest
-//
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "XCT Assert Equals"
+summary: "Assert equals for XCTest"
+completion-scope: Function or Method
+---
 
 XCTAssertEqual(<#expected#>, <#actual#>, <#message#>);

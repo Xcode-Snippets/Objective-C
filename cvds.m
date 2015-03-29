@@ -1,9 +1,9 @@
-// UICollectionViewDataSource
-// Placeholders for essential UICollectionViewDataSource delegate methods
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "UICollectionViewDataSource"
+summary: "Placeholders for essential UICollectionViewDataSource delegate methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UICollectionViewDataSource
 

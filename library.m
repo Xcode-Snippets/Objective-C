@@ -1,7 +1,6 @@
-// Library Directory Path
-// 
-// Platform: All
-// Language: Objective-C
-// Completion Scope: Function or Method
+---
+title: "Library Directory Path"
+completion-scope: Function or Method
+---
 
 [NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES) firstObject];

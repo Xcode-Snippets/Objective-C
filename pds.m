@@ -1,9 +1,9 @@
-// UIPickerViewDataSource
-// Placeholders for required UIPickerView datasource methods
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Class Implementation
+---
+title: "UIPickerViewDataSource"
+summary: "Placeholders for required UIPickerView datasource methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UIPickerDataSource
 
